@@ -1,0 +1,54 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    }
+    
+    h4{
+    text-align: center;
+    }
+    
+    
+    body{
+      font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    }
+    table {
+      border-collapse: collapse;
+      width: 100%;
+    }
+    .bg-active {
+      background-color: #dddddd;
+    }
+    .red {
+      background-color: red;
+      color: white;
+      font-weight: bold;
+    }
+    .green {
+      background-color: green;
+      color: white;
+      font-weight: bold;
+    }
+    .blue {
+      background-color: blue;
+      color: white;
+      font-weight: bold;
+    }
+    
+    
+    td,
+    th {
+      border: 1px solid #dddddd;
+      text-align: left;
+      text-align: center;
+      padding: 8px;
+    }
+    tr td input {
+      width: 90%;
+      text-indent: 10px;
+      font-size: 15px;
+      height: 50px;
+      outline: none;
+    }
+    
+    
+    
